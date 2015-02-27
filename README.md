@@ -6,7 +6,6 @@ Event Tracking (Google Analytics)
 npm install event-tracking --save-dev
 ```
 ## Use
-Require the `event-tracking.js` in your project.
 ```js
 var eventTracking = require('event-tracking')();
 ```
@@ -17,6 +16,7 @@ Add the class `click-tracking` to an element that needs a event tracked in Googl
 ```
 
 ## Release History
+* 1.0.1: Update documentation.
 * 1.0.0: Initial release.
  
 ## Contributing
